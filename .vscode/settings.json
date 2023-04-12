@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/0b0eefb7-6c48-473e-aa68-92b9fcf6f86f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/Tanaya",
+    "appService.deploySubpath": "."
+}
